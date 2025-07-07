@@ -1,0 +1,12 @@
+# Ignorar pastas fixas no diretório principal
+Documentos/
+Horas Complementares/
+Horas de Extensão/
+Testes com ChatGPT/
+
+# Ignorar pastas específicas dentro de "2° Período"
+2° Período/Banco de Dados/
+2° Período/Cálculo Diferencial e Integral 1/
+
+# Ignora na pasta Algoritmos
+2° Período/Algoritmos/zipados/
